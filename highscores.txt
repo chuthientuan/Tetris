@@ -1,0 +1,4 @@
+Tuan,2200
+Tuan,0
+Tuan,0
+asf,0
